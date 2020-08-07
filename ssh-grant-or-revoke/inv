@@ -1,0 +1,7 @@
+[servers]
+instance1 ansible_host=54.241.205.178
+instance2 ansible_host=18.144.22.95
+
+[servers:vars]
+user_name=dev
+user_des="Developer"
